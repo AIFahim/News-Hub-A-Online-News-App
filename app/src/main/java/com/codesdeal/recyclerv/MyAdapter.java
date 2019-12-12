@@ -18,6 +18,7 @@ public class MyAdapter extends RecyclerView.Adapter<BaseViewHolder>
 {
     ArrayList<String> cityNames;
     Context context;
+    private  int i=0;
 
     public MyAdapter(Context context, ArrayList<String> cityNames)
     {
