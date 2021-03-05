@@ -1,6 +1,6 @@
 ### News Hub - A Online News App
 ![Author](https://img.shields.io/badge/author-AIFahim-orange)
-[![License Badge](https://img.shields.io/badge/license-GPL%203.0-blue)](https://github.com/AIFahim/Camera_Beautify_AI_Face_Recognized_APP/blob/master/LICENSE)
+[![License Badge](https://img.shields.io/badge/license-GPL%203.0-blue)](https://github.com/AIFahim/News-Hub-A-Online-News-App/blob/master/LICENSE)
 
 
 <hr>
@@ -16,7 +16,7 @@ MVC | Java | Android Components like Recyclerview ,  Webview , Shared preference
 
 <hr>
 
-#Screen :  
+# Screen :  
 
 <img src = "https://user-images.githubusercontent.com/33654834/80000486-02eecf80-84df-11ea-985e-07c04ceb1230.jpg" width="500" height="900" /> 
 
