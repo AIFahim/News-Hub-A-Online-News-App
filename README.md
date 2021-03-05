@@ -7,9 +7,8 @@
 MVC | Java | Android Components like Recyclerview ,  Webview , Shared preference etc.
 
 
-
-![Screenshot_2020-04-22-21-17-12-375_com codesdeal recyclerv](https://user-images.githubusercontent.com/33654834/80000486-02eecf80-84df-11ea-985e-07c04ceb1230.jpg)    | ![Screenshot_2020-04-22-21-17-21-983_com codesdeal recyclerv](https://user-images.githubusercontent.com/33654834/80000479-01250c00-84df11ea93c9-0e72a9eb4471.jpg)
-:-------------------------:|:-------------------------:|
+<img src = "https://user-images.githubusercontent.com/33654834/80000486-02eecf80-84df-11ea-985e-07c04ceb1230.jpg" width="230" height="230" /> 
+![Screenshot_2020-04-22-21-17-12-375_com codesdeal recyclerv](https://user-images.githubusercontent.com/33654834/80000486-02eecf80-84df-11ea-985e-07c04ceb1230.jpg)    
  
 
 
