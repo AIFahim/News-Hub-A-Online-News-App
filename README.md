@@ -5,7 +5,7 @@
 
 <hr>
 
-## By using this application users get all online newspaper in one app. It's user friendly application. It's must satisfy the users need.
+## By using this application users get all online newspaper in one app. Trying to satisfy user friendly application. It's must satisfy the users need.
 
 <hr>
 
